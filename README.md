@@ -25,4 +25,5 @@ This tool allows you to generate and export binding files with the following cap
 
 # About US
 **Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
+
 **Pedro Almeida** | [DevScope](http://www.devscope.net/) | Integration Developer 
