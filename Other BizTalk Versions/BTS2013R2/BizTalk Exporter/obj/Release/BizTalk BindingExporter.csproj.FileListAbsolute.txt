@@ -1,0 +1,35 @@
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\DevScope.BizTalk.BindingExporter.exe.config
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\DevScope.BizTalk.BindingExporter.pdb
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\EPPlus.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\Microsoft.BizTalk.ExplorerOM.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\EPPlus.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Release\Microsoft.BizTalk.ExplorerOM.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Release\BizTalk_Exporter.connectionForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Release\BizTalk_Exporter.mainForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Release\BizTalk_Exporter.Properties.Resources.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Release\BizTalk BindingExporter.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Release\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Release\DevScope.BizTalk.BindingExporter.pdb
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\DevScope.BizTalk.BindingExporter.exe.config
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\DevScope.BizTalk.BindingExporter.pdb
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\EPPlus.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\Microsoft.BizTalk.ExplorerOM.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\EPPlus.xml
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Release\Microsoft.BizTalk.ExplorerOM.xml
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Release\BizTalk BindingExporter.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Release\BizTalk_Exporter.connectionForm.resources
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Release\BizTalk_Exporter.mainForm.resources
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Release\BizTalk_Exporter.Properties.Resources.resources
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Release\BizTalk BindingExporter.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Release\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Release\DevScope.BizTalk.BindingExporter.pdb

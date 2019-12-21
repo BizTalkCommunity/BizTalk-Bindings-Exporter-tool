@@ -1,0 +1,17 @@
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\BizTalk Exporter.exe.config
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\BizTalk Exporter.exe
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\EPPlus.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\Microsoft.BizTalk.ExplorerOM.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\Microsoft.BizTalk.Pipeline.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\Microsoft.XLANGs.Engine.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\Microsoft.XLANGs.BaseTypes.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\EPPlus.xml
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\Microsoft.BizTalk.ExplorerOM.xml
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Release\BizTalk_Exporter.connectionForm.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Release\BizTalk_Exporter.mainForm.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Release\BizTalk_Exporter.Properties.Resources.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Release\BizTalk Exporter.csproj.GenerateResource.Cache
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Release\BizTalk Exporter.exe
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Release\BizTalk Exporter.pdb
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Release\BizTalk Exporter.pdb

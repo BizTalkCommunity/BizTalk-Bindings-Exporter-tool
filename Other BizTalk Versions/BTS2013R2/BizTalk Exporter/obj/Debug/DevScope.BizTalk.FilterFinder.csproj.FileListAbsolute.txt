@@ -1,0 +1,12 @@
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.exe.config
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\DevScope.BizTalk.BindingExporter.exe
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\DevScope.BizTalk.BindingExporter.pdb
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.exe
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.pdb
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\EPPlus.dll
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\EPPlus.xml
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\DevScope.BizTalk.FilterFinder.csprojResolveAssemblyReference.cache
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.connectionForm.resources
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.mainForm.resources
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.Properties.Resources.resources
+D:\SourceCode\62351\Source\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\DevScope.BizTalk.FilterFinder.csproj.GenerateResource.Cache
