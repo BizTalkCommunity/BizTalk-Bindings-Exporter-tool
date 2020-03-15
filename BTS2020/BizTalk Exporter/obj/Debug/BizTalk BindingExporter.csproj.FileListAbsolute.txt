@@ -1,0 +1,36 @@
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.exe.config
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.pdb
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\EPPlus.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\EPPlus.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk BindingExporter.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.connectionForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.mainForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.Properties.Resources.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk BindingExporter.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\DevScope.BizTalk.BindingExporter.pdb
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.exe.config
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\DevScope.BizTalk.BindingExporter.pdb
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\EPPlus.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\EPPlus.xml
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.xml
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk BindingExporter.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.connectionForm.resources
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.mainForm.resources
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.Properties.Resources.resources
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\BizTalk BindingExporter.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\DevScope.BizTalk.BindingExporter.exe
+C:\Development\Pet Projects\DevScope.BizTalk.BindingExporter\BizTalk Exporter\obj\Debug\DevScope.BizTalk.BindingExporter.pdb

@@ -1,0 +1,56 @@
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe.config
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\BizTalk Exporter.pdb
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\EPPlus.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\EPPlus.xml
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.xml
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.connectionForm.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.mainForm.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Debug\BizTalk_Exporter.Properties.Resources.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Debug\BizTalk Exporter.csproj.GenerateResource.Cache
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Debug\BizTalk Exporter.exe
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Debug\BizTalk Exporter.pdb
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe.CodeAnalysisLog.xml
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe.lastcodeanalysissucceeded
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Exporter\BizTalk Exporter\obj\Debug\BizTalk Exporter.csprojResolveAssemblyReference.cache
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe.config
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\BizTalk Exporter.pdb
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\EPPlus.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\EPPlus.xml
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.xml
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.connectionForm.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.mainForm.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.Properties.Resources.resources
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.csproj.GenerateResource.Cache
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.exe
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.pdb
+C:\Users\chubb\Documents\Visual Studio 2015\Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe.config
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\BizTalk Exporter.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\BizTalk Exporter.pdb
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\EPPlus.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BizTalk.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.Engine.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\EPPlus.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\bin\Debug\Microsoft.BizTalk.ExplorerOM.xml
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.csprojResolveAssemblyReference.cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.connectionForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.mainForm.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk_Exporter.Properties.Resources.resources
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.exe
+C:\Development\Pet Projects\BizTalk Tools\BizTalk Exporter\obj\Debug\BizTalk Exporter.pdb
